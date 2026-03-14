@@ -1,18 +1,14 @@
-# Welcome to your Lovable project
+# Welcome to your  project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: (https://famous-piroshki-5b6811.netlify.app/)
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
+You can edit this project using your preferred IDE such as Visual Studio Code.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,12 +58,16 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Netlify
 
-## Can I connect a custom domain to my Lovable project?
+GitHub Pages
 
-Yes, you can!
+Example (Netlify):
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Push project to GitHub
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Connect the repository to Netlify
+
+Deploy automatically
+
+
