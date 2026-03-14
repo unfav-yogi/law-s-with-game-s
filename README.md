@@ -1,29 +1,21 @@
-# Welcome to your  project
+# low's with game's
 
 ## Project info
 
-**URL**: (https://famous-piroshki-5b6811.netlify.app/)
+**Live Demo:** https://famous-piroshki-5b6811.netlify.app/
 
 ## How can I edit this code?
 
 You can edit this project using your preferred IDE such as Visual Studio Code.
 
-
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
 Follow these steps:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 1: git clone https://github.com/username/project-name.git
+cd project-name
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd low's with game's
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -59,15 +51,12 @@ This project is built with:
 ## How can I deploy this project?
 
 Netlify
-
 GitHub Pages
 
 Example (Netlify):
 
-Push project to GitHub
-
-Connect the repository to Netlify
-
-Deploy automatically
+1.Push project to GitHub
+2.Connect the repository to Netlify
+3.Deploy automatically
 
 
